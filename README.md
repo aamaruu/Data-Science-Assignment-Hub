@@ -16,7 +16,7 @@ I'm Maulana Amrullah, a PhD candidate specializing in International Relations, p
 - Skills covered include Data Science, Data Analysis, Visualization, Machine Learning, and more.
 
 ## Contact
-For collaboration or inquiries, feel free to contact me at maulana_amrullah@yahoo.com.
+For collaboration or inquiries, feel free to contact me at maulana_amrullah@yahoo.com
 
 ## Acknowledgments
 Special thanks to my mentors and professors at National Sun Yat-sen University, and all the resources contributing to my academic and professional growth in both political science and data science.
